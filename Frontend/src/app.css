@@ -1,0 +1,28 @@
+.container {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+.input-box input {
+  padding: 8px;
+  width: 70%;
+}
+
+.input-box button {
+  padding: 8px;
+  margin-left: 5px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+}
